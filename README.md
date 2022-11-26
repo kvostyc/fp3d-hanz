@@ -20,4 +20,4 @@ Contributions are welcomed, thanks to everyone that will support it in the futur
 [GNU GENERAL PUBLIC LICENSE v3.0](https://github.com/kvostyc/fp3d-hanz/blob/main/LICENSE)
 
 ## Project status
-** Still on & updated ! **
+**Still on & updated !**
