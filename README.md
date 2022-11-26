@@ -3,6 +3,7 @@ This is FFF (Fused Filament Fabrication) open source 3D Printer, made by [FP3D.s
 
 ## Tecchnical Parameters
 | Property      | Number        |
+| ------------- |:-------------:|
 | col 3 is      | right-aligned |
 | col 2 is      | centered      |
 | zebra stripes | are neat      | 
