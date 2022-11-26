@@ -2,11 +2,10 @@
 This is FFF (Fused Filament Fabrication) open source 3D Printer, made by [FP3D.sk Team](https://fp3d.sk). All 3D models, part list and firmware you can find in this repository.
 
 ## Tecchnical Parameters
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Property      | Number        |
+| col 3 is      | right-aligned |
+| col 2 is      | centered      |
+| zebra stripes | are neat      | 
 
 
 ## Contributing
