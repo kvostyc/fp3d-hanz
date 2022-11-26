@@ -7,6 +7,4 @@ Contributions are welcomed, thanks to everyone that will support it in the futur
 ## License
 GNU GENERAL PUBLIC LICENSE v3.0
 
-
-
-### Test
+Made by [FP3D.sk Team](https://fp3d.sk)
